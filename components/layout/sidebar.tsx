@@ -8,8 +8,6 @@ import {
   ShoppingCart, 
   History, 
   User, 
-  Menu, 
-  X,
   PlusCircle,
   ChevronLeft,
   ChevronRight
